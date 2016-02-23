@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  UICEditSDK
+
+  Created by Cc on 15/2/12.
+  Copyright (c) 2015年 PinguoSDK. All rights reserved.
+*/
+
+"UICEditSDK_ChooseImages" = "写真選択";
+
+"UICEditSDK_Edit" = "編集";
+
+"UICEditSDK_EditAgain" = "再度編集";
